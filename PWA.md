@@ -58,3 +58,8 @@
 ---
 
 ![отличия пва приоложения от обычного](https://cutt.ly/Ww2vf2NZ)
+
+- ссылки дляобработки
+
+  - [статья с Хабра](https://habr.com/ru/companies/wrike/articles/481240/)
+  - [ еще одна статья с Хабра ](https://habr.com/ru/articles/418923/)

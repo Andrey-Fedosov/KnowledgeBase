@@ -1,5 +1,9 @@
 # Knowledge base
 
+## Запись урл репозитория с ссш
+
+- git@github.com:Andrey-Fedosov/KnowledgeBase.git
+
 ## Basic syntax of markdown
 
 - ## [Страница с базовым синтаксисом MD](https://www.markdownguide.org/basic-syntax/#links)
